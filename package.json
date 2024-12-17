@@ -1,0 +1,23 @@
+{
+  "name": "datahandling-kenzie-hardware-store-practice-ladeeluc",
+  "version": "1.0.0",
+  "description": "Complete your work inside of `code.js`",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenzieAcademy-Students/datahandling-kenzie-hardware-store-practice-ladeeluc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenzieAcademy-Students/datahandling-kenzie-hardware-store-practice-ladeeluc/issues"
+  },
+  "homepage": "https://github.com/KenzieAcademy-Students/datahandling-kenzie-hardware-store-practice-ladeeluc#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
