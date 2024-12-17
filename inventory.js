@@ -13,7 +13,6 @@ let products = [
     quantity: 1,
     department: "garden",
   },
-  {
     id: "15312",
     name: "Shovel",
     price: 12.0,
